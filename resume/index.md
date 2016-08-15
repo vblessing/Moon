@@ -6,7 +6,7 @@ comments: false
 ---
 
 {% capture images %}
-    https://lh3.googleusercontent.com/--i4G7zW7xpB4I073jxPWzzHnHrEzzrkgyODt5DJGCJZG9e0-RWxYahI0Dzk_VmHgC09VsCLRx99SZ8=w1604-h1322-rw
+    https://cloud.githubusercontent.com/assets/3999711/17673729/199b34f2-62e8-11e6-8989-ec6ef6936b22.jpg
 {% endcapture %}
 {% include gallery images=images cols=1 %}
 

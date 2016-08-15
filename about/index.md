@@ -32,6 +32,6 @@ But I enjoy the time I do get doing the things I love, and being with the ones I
 
 
 {% capture images %}
-    https://lh3.googleusercontent.com/HJZm5RPMosABPVvUSYn8dgh2T5sMuBZr1_Yee4LjwuDmNyaeohtB7fAhrF5tJz1lSJVsrX2XlJ-6lRs=w1829-h1278-rw
+    https://cloud.githubusercontent.com/assets/3999711/17673706/f5ce4ea6-62e7-11e6-966e-704da1b8f786.png
 {% endcapture %}
 {% include gallery images=images caption="my babies" cols=1 %}

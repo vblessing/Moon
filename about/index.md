@@ -9,9 +9,7 @@ comments: false
 <center><b>Victoria</b> is an artsy, creative trapped in the body of an analytical techie. Some days it's vice versa.</center>
 
 
-I'm currently working as an Operations Engineer at Texas A&M University. 
-I'm using configuration management tools like Chef to manage the Linux infrastructure 
-for the College of Architecture. I graduated for Texas A&M in December 2014, with a Management Information Systems 
+I'm currently working as an Operations Engineer at Texas A&M University, using configuration management tools like Chef to manage the Linux infrastructure for the College of Architecture. I graduated for Texas A&M in December 2014, with a Management Information Systems 
 degree and an Internation Business Certificate. I worked for the College of Architecture as a student worker, 
 starting out on the ITS helpdesk as a freshman, and working my way up through various support and development 
 roles, before stepping in the Linux sysadmin role the summer before my last semester. It's been a great opportunity 

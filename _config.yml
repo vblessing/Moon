@@ -1,14 +1,15 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
-reading_time:       true
+title:              Victoria Blessing
+bio:                'Operations Engineer @ Texas A&M University - College of Architecture'
+description:        "A site about me, Victoria Blessing."
+reading_time:       false
 words_per_minute:   200
-logo:               'assets/img/logo.png'
-background:         'assets/img/placeholder-big.jpg'
+logo:               'assets/img/headshot.png'
+background:         'assets/img/sunflowers.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                http://taylantatli.me/Moon
+url:                http:/victoriablessing.com/
+url:                http://localhost:4000
 
 # Jekyll
 permalink:          /:title/
@@ -26,7 +27,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+disqus_shortname:   vblessing
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -37,19 +38,19 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
-twitter:            username
-facebook:           username
-github:             username
+email:              victoriaannblessing@gmail.com
+twitter:            _vblessing
+facebook:           victoriaannblessing
+github:             vblessing
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:           victoriablessing
 #xing:              username
-instagram:          username
+instagram:          rocketgirl1200
 #lastfm:            username
 #tumblr:            username
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #soundcloud:        username

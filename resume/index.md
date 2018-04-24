@@ -6,8 +6,9 @@ comments: false
 ---
 
 {% capture images %}
-    https://cloud.githubusercontent.com/assets/3999711/17673729/199b34f2-62e8-11e6-8989-ec6ef6936b22.jpg
+   https://user-images.githubusercontent.com/3999711/39161118-bb238964-4734-11e8-9572-7fd71d55810d.jpg 
 {% endcapture %}
 {% include gallery images=images cols=1 %}
 
-### A PDF version can be found [here](https://drive.google.com/open?id=0BxmqYm4JMOZfcHZ0SkJSeTdQSHM)
+### A PDF version can be found
+[here](https://drive.google.com/file/d/16OoeMLUjr336fejMHJNLV-lXjuEeBRmM)

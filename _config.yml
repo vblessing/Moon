@@ -1,7 +1,7 @@
 # Site
-title:              Victoria Blessing
-bio:                'Operations Engineer @ Texas A&M University - College of Architecture'
-description:        "A site about me, Victoria Blessing."
+title:              Victoria Blessing Alexander
+bio:                'Unix SysAdmin @ Macquarie Group'
+description:        "A site about me, Victoria Blessing Alexander."
 reading_time:       false
 words_per_minute:   200
 logo:               'assets/img/headshot.png'
@@ -45,10 +45,10 @@ github:             vblessing
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin:           victoriablessing
 #xing:              username
-instagram:          rocketgirl1200
+instagram:          vic.bless.alex 
 #lastfm:            username
 #tumblr:            username
-#pinterest:         username
+pinterest:          rocketgirl1200
 #foursquare:        username
 #steam:              username
 #dribbble:          username

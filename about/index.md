@@ -9,7 +9,8 @@ comments: false
 <center><b>Victoria</b> is an artsy, creative trapped in the body of an analytical techie. Some days it's vice versa.</center>
 
 
-I'm currently working as a Unix Systems Administrator for the Maquarie Group. I graduated for Texas A&M in December 2014, with a Management Information Systems 
+I'm currently working as a Unix Systems Administrator for the Maquarie Group. I graduated for Texas
+A&M in December 2014, with a Management Information Systems 
 degree and an Internation Business Certificate. I worked for the College of Architecture as a student worker, 
 starting out on the ITS helpdesk as a freshman, and working my way up through various support and development 
 roles, before stepping in the Linux sysadmin role the summer before my last semester. Spending three
@@ -27,8 +28,8 @@ and two lazy fat cats, Jasper and Billie Jean. It's quite a zoo, but we wouldn't
 I have a wide range of passions, from cooking, to sewing, knitting, crocheting, anything crafty, 
 to things like robotics and model rocketry. I can fix anything. I also love camping and any activity 
 in the great outdoors. I have major wanderlust, I feel most at home when I'm traveling and experiencing new places 
-and new cultures, espcially when it comes to food. My one problem is the lack of time to do all the things I want to do. What I would give for more 
-hours in the day.
+and new cultures, espcially when it comes to food. My one problem is the lack of time to do all the
+things I want to do. What I would give for more hours in the day.
 
 But I enjoy the time I do get doing the things I love, and being with the ones I love!
 

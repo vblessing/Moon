@@ -10,5 +10,4 @@ comments: false
 {% endcapture %}
 {% include gallery images=images cols=1 %}
 
-### A PDF version can be found
-[here](https://drive.google.com/file/d/16OoeMLUjr336fejMHJNLV-lXjuEeBRmM)
+### A PDF version can be found [here](https://drive.google.com/file/d/16OoeMLUjr336fejMHJNLV-lXjuEeBRmM)

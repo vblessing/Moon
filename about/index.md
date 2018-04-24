@@ -9,14 +9,15 @@ comments: false
 <center><b>Victoria</b> is an artsy, creative trapped in the body of an analytical techie. Some days it's vice versa.</center>
 
 
-I'm currently working as a Unix Systems Administrator for the Maquarie Group. I graduated for Texas
-A&M in December 2014, with a Management Information Systems 
+I'm currently working as a Unix Systems Administrator for the Maquarie Group. I graduated from Texas
+A&M University in December 2014, with a Management Information Systems 
 degree and an Internation Business Certificate. I worked for the College of Architecture as a student worker, 
 starting out on the ITS helpdesk as a freshman, and working my way up through various support and development 
 roles, before stepping in the Linux sysadmin role the summer before my last semester. Spending three
-years in that was an invaluable opportunity for me to grow and figure out what I want to do. I love
+years in that role was an invaluable opportunity for me to grow and figure out what I want to do. I love
 the DevOps culture and mindset and really enjoy using automation and configuration management
-tools.
+tools. I took the big jump into the corporate world starting at Macquarie in September
+of 2017.
 
 I grew up on a farm in North Texas, and after spending a couple years living the Houston big city life with my other
 half, Ben, in Houston. I'm finally living out where the sky is big and the air is clean, since

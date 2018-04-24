@@ -19,9 +19,9 @@ the DevOps culture and mindset and really enjoy using automation and configurati
 tools.
 
 I grew up on a farm in North Texas, and after spending a couple years living the Houston big city life with my other
-half, Ben, in Houston. I'm finally living out where the sky is big and the air is clean, since we
-bought a house out on the west edge of Montgomery County. It makes for a hell of a commute, but
-nothing beats the country. 
+half, Ben, in Houston. I'm finally living out where the sky is big and the air is clean, since
+shortly before we got married last year we bought a house out on the west edge of Montgomery County. 
+It makes for a hell of a commute, but nothing beats the country. 
 We have 4 fur babies: a gorgeous German Shepherd, Elsa, a precious little Jack Russell Terrier mix, Oliver, 
 and two lazy fat cats, Jasper and Billie Jean. It's quite a zoo, but we wouldn't have it any other way.
 
@@ -36,5 +36,6 @@ But I enjoy the time I do get doing the things I love, and being with the ones I
 
 {% capture images %}
     https://cloud.githubusercontent.com/assets/3999711/17673706/f5ce4ea6-62e7-11e6-966e-704da1b8f786.png
+    https://user-images.githubusercontent.com/3999711/39161947-a510f32e-4738-11e8-8924-df9300e6e097.jpg
 {% endcapture %}
-{% include gallery images=images caption="my babies" cols=1 %}
+{% include gallery images=images cols=1 %}

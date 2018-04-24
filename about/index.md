@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 tags: [about, Victoria, me]
-feature: /assets/img/V&B_0487.jpg
+feature: /assets/img/headshot.png 
 comments: false
 ---
     
